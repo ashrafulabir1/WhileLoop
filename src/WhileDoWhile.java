@@ -5,7 +5,7 @@ public class WhileDoWhile {
 	int n=2;
 	while(n<5) { //while only take boolean. n<5 true or false
 		System.out.println(""+n);
-	++n; // if true then the loop will continue to increment
+	++n; // if true then the loop will continue 
 	}
 	int Sum=0;
 	int x =5;
